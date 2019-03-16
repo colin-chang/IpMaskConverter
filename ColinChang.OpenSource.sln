@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColinChang.OpenSource.IpConverter", "ColinChang.OpenSource.IpConverter\ColinChang.OpenSource.IpConverter.csproj", "{32A15315-9A37-45C5-A4AB-54604DF40D4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColinChang.OpenSource.IpConverter.Test", "ColinChang.OpenSource.IpConverter.Test\ColinChang.OpenSource.IpConverter.Test.csproj", "{FFF90CA5-D08C-45F3-9FB3-0956604A5C83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32A15315-9A37-45C5-A4AB-54604DF40D4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32A15315-9A37-45C5-A4AB-54604DF40D4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32A15315-9A37-45C5-A4AB-54604DF40D4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32A15315-9A37-45C5-A4AB-54604DF40D4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFF90CA5-D08C-45F3-9FB3-0956604A5C83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFF90CA5-D08C-45F3-9FB3-0956604A5C83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFF90CA5-D08C-45F3-9FB3-0956604A5C83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFF90CA5-D08C-45F3-9FB3-0956604A5C83}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

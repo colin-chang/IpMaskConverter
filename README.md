@@ -1,5 +1,7 @@
 # IP地址转换器
 
-包含常见的IP地址转换功能，如下图所示。
+包含常见的IP地址转换功能。
 
-![IP地址转换器](./IpConverter.Web/wwwroot/images/ipconverter.jpg)
+IP地址 <-> 长整型
+
+IP地址段 <-> IP地址+掩码

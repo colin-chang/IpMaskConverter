@@ -3,7 +3,7 @@ using System.Linq;
 using Xunit;
 using Xunit.Abstractions;
 
-namespace ColinChang.OpenSource.IpConverter.Test
+namespace ColinChang.IpMaskConverter.Test
 {
     public class IpConvertersTest : IClassFixture<IpConvertersFixture>
     {

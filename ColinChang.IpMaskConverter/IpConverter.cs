@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Net;
 
-namespace ColinChang.OpenSource.IpConverter
+namespace ColinChang.IpMaskConverter
 {
     /// <summary>
     /// IP地址转换器

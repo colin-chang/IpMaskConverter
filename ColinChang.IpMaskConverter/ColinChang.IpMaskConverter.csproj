@@ -2,5 +2,15 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <Authors>Colin Chang</Authors>
+    <Description>This is a tool to convert all kinds of ip address,like 32bit,long,ip range,ip/mask.
+IP地址转换工具。IP地址 &lt;-&gt; 长整型；IP地址段 &lt;-&gt; IP地址+掩码</Description>
+    <PackageTags>ip,ip convert,mask,ip mask</PackageTags>
+    <PackageProjectUrl>https://github.com/colin-chang/IpMaskConverter</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/colin-chang/IpMaskConverter</RepositoryUrl>
+    <PackageLicenseUrl>https://raw.githubusercontent.com/colin-chang/IpMaskConverter/master/LICENSE</PackageLicenseUrl>
+    <RepositoryType>Git</RepositoryType>
   </PropertyGroup>
 </Project>

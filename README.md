@@ -1,10 +1,7 @@
 # IP地址转换器
 
-包含常见的IP地址转换功能。
+A utility can convert between all kinds of ip address,like 32bit to long integer and ip range to ip/mask.
 
-IP地址 <-> 长整型
-
-IP地址段 <-> IP地址+掩码
 
 **[Nuget](https://www.nuget.org/packages/ColinChang.IpMaskConverter/)**
 ```sh
